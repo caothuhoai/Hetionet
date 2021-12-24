@@ -3,4 +3,4 @@
 - It uses graph database Neo4j and its query language Cypher.
 - Everything was done from a Python notebook interface including adding and retrieving nodes and relationships from the database.
 
-<img src="Hetionet.png" width="600" height="400" />
+<img src="Hetionet.png" width="750" height="500" />
